@@ -1,0 +1,11 @@
+$color-primary : hsl(150, 100%, 66%);
+$color-secondary : hsl(193, 38%, 86%);
+$color-grayish-blue : hsl(217, 19%, 38%);
+$color-dark-grayish-blue: hsl(217, 19%, 24%);
+$color-dark-blue : hsl(218, 23%, 16%);
+
+$palette-color :(
+    font-green : $color-primary,
+    font-cyan : $color-secondary,
+);
+
