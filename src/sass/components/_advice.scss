@@ -1,0 +1,22 @@
+.container{
+    &__advice{   
+        font-size: 26px;
+        font-weight: bolder;
+        &--position{
+            text-align: center;
+        }
+        &--cyan{
+            color: $color-secondary;
+        }
+    }
+    &__advice_number{
+        text-transform: capitalize;
+        letter-spacing: 3px;
+        &--length{
+            font-size: 13px;
+        }
+        &--green{
+            color : $color-primary;
+        }
+    }
+}
