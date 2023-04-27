@@ -14,7 +14,7 @@ async function handleAdvice(){
     const response = await fetch("https://api.adviceslip.com/advice")
     const JsonData = await response.json()
     document.getElementById("advice").innerHTML = JsonData.slip.advice
-    document.getElementById("number").innerHTML = `Advice # ${JsonData.slip.id}`
+    document.getElementById("number").innerHTML = `ADVICE # ${JsonData.slip.id}`
 }
 
 export default Button;
