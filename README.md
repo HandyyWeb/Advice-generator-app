@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+# Advice-generator-app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hello, here is another project : an advice-generator application !
+This is a solution to the [Advice generator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Available Scripts
+# Screenshots
 
-In the project directory, you can run:
+![Capture d’écran (246)](https://user-images.githubusercontent.com/121683423/234919206-8a0241ea-8fa8-41ac-94b7-07a1086ea576.png)
+![Capture d’écran (247)](https://user-images.githubusercontent.com/121683423/234919253-944bd428-a9c8-425e-a12d-ae3cdd5705e9.png)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Solution URL :
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Live site URL : https://handyyweb.github.io/Advice-generator-app/
 
-### `npm test`
+# My process :
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Built with 
 
-### `npm run build`
+- React : A front-end library / framework
+- SASS : a CSS preprocessor
+- Semantic HTML
+- CSS media queries / font-face rules
+- Slice Advice API
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# What I learned :
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Hello, so it's been a long time since I've posted a frontend solutions, I've been very busy so I'm glad to be able to post again!
+So, I have learned a lot of things since the last time, but the two big new concepts here are : React and SASS.
+I've learnt them through courses and actually through this challenge, which allowed me to put my knowledge into practice, and I think I've done pretty well.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- SASS is a CSS preprocessor that allows us to integrate concepts such as loops, conditions, etc... into our CSS, but it also brings a lot of other features that are very handy.
+with CSS organisation.
 
-### `npm run eject`
+- React is a well known library ( or framework ) to make the creation of UI easier with a lot of tools like props, state, components, etc... and also allow us to be well organised, like SASS for the CSS.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+I also learned to use an API in a project, so that's good too.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Continued development :
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+I need to expand my React knowledge by practising with different challenges.
+I want to make a single page application, a larger scale application with React Router, and other exciting things!
+I also need to learn how to use CSS frameworks like Tailwind to combine with SASS to improve my CSS skills.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# Useful ressources :
 
-## Learn More
+https://openclassrooms.com/fr/ : If you want to learn all sorts of things like : React, SASS, etc... I would really advise you to try this site, very interesting and well done !
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# <ins> Authors <ins> :
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Frontend mentor [@Handyyweb] : (https://www.frontendmentor.io/profile/HandyyWeb)
 
-### Code Splitting
+Sololearn : https://www.sololearn.com/profile/27368692
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Contact me : lebretonandy@gmail.com
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+See you next time, have a nice day/night !
